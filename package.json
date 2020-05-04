@@ -24,6 +24,7 @@
     "ffmpeg-binaries": "^3.2.2-3",
     "save": "^2.4.0",
     "yt-search": "^1.1.2",
-    "ytdl-core": "^2.1.1"
+    "ytdl-core": "^2.1.1",
+    "ytsearcher": "^1.2.2"
   }
 }
